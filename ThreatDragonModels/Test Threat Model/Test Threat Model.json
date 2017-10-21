@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "test Prod team",
+    "description": "Testing high level description"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "John Doe"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "test diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Barry Dawson"
+  }
+}
